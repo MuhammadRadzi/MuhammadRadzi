@@ -21,6 +21,8 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" width="200" src="https://media.tenor.com/a2m-Y3dLmD0AAAAi/mona-github-loading-github.gif" alt="anime gif"/>
+
 - 🌏 Based in **Indonesia** (UTC +08:00)
 - 🌱 Currently sharpening my skills in **web development**
 - 🛒 Building **E-Commerce** solutions and community-driven projects
