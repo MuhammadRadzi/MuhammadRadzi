@@ -9,7 +9,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-# Assalamu'alaikum, I'm **Radzi** 👋
+# Assalamu'alaikum, I'm **Radzi** <img src="https://media.tenor.com/6ApsrEpKXMIAAAAi/limbus-company.gif" width="30"/>
 
 **Web Developer · Lifelong Learner · Builder of Things**
 
@@ -21,12 +21,12 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="200" src="https://media.tenor.com/a2m-Y3dLmD0AAAAi/mona-github-loading-github.gif" alt="anime gif"/>
+<img align="right" width="190" src="https://media1.tenor.com/m/dcn9avGpTHMAAAAC/shanque-fabulous-beasts.gif" alt="anime gif"/>
 
 - 🌏 Based in **Indonesia** (UTC +08:00)
 - 🌱 Currently sharpening my skills in **web development**
 - 🛒 Building **E-Commerce** solutions and community-driven projects
-- 🕌 Passionate about tech that benefits society (*ilmu yang bermanfaat*)
+- 🕌 Passionate about tech that benefits society
 - 💬 Ask me about **PHP, HTML, JavaScript**
 - 📖 Believer in growth through consistency
 
