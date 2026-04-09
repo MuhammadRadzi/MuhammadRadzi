@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="160" src="https://media1.tenor.com/m/dcn9avGpTHMAAAAC/shanque-fabulous-beasts.gif" alt="anime gif"/>
+<img align="right" width="162" src="https://media1.tenor.com/m/dcn9avGpTHMAAAAC/shanque-fabulous-beasts.gif" alt="anime gif"/>
 
 - 🌏 Based in **Indonesia** (UTC +08:00)
 - 🌱 Currently sharpening my skills in **web development**
