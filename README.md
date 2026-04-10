@@ -37,10 +37,11 @@
 | Project | Description | Stack |
 |---|---|---|
 | [🛒 E-Commerce Project](https://github.com/MuhammadRadzi/E-Commerce-Project) | Toko Komputer — full e-commerce platform | PHP |
-| [🌿 DariTani](https://github.com/MuhammadRadzi/DariTani) | Agriculture platform — *coming soon* | — |
 | [📚 Ilmu Qayyim](https://github.com/MuhammadRadzi/Project-Ilmu-Qayyim) | Islamic knowledge resource | HTML |
 | [🗂️ Portofolio](https://github.com/MuhammadRadzi/portofolio-radzi) | Personal portfolio showcase | HTML |
 | [📦 Standard Library JS](https://github.com/MuhammadRadzi/standard-library-javascript) | JavaScript standard library reference | HTML |
+| [📊 SIMAK](https://github.com/MuhammadRadzi/SIMAK) | Activity Monitoring Information System | PHP |
+| [🌿 DariTani](https://github.com/MuhammadRadzi/DariTani) | Agriculture platform — *coming soon* | — |
 
 ---
 
@@ -81,8 +82,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MuhammadRadzi-181717?style=flat-square&logo=github)](https://github.com/MuhammadRadzi)
-[![Instagram](https://img.shields.io/badge/Instagram-mhmmdrdzy-E4405F?style=flat-square&logo=instagram)](https://instagram.com/mhmmdrdzy)
-[![TikTok](https://img.shields.io/badge/TikTok-jhtr.e14-000000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@jhtr.e14)
 
 </div>
 
