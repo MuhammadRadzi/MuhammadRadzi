@@ -37,7 +37,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [🛒 E-Commerce Project](https://github.com/MuhammadRadzi/E-Commerce-Project) | Toko Komputer — full e-commerce platform | PHP |
-| [📚 Ilmu Qayyim](https://github.com/MuhammadRadzi/Project-Ilmu-Qayyim) | Islamic knowledge resource | HTML |
+| [📚 Ilmu Qayyim](https://github.com/MuhammadRadzi/Project-Ilmu-Qayyim) | Islamic knowledge resource | PHP |
 | [🗂️ Portofolio](https://github.com/MuhammadRadzi/portofolio-radzi) | Personal portfolio showcase | HTML |
 | [📦 Standard Library JS](https://github.com/MuhammadRadzi/standard-library-javascript) | JavaScript standard library reference | HTML |
 | [📊 SIMAK](https://github.com/MuhammadRadzi/SIMAK) | Activity Monitoring Information System | PHP |
