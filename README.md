@@ -42,6 +42,7 @@
 | [📦 Standard Library JS](https://github.com/MuhammadRadzi/standard-library-javascript) | JavaScript standard library reference | HTML |
 | [📊 SIMAK](https://github.com/MuhammadRadzi/SIMAK) | Activity Monitoring Information System | PHP |
 | [🌿 DariTani](https://github.com/MuhammadRadzi/DariTani) | Agriculture platform — *coming soon* | — |
+| [💧️ Dotfiles](https://github.com/MuhammadRadzi/dotfiles) | Hyprland Config | QML |
 
 ---
 
